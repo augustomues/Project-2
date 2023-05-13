@@ -1,4 +1,4 @@
-# Project-2
+# Project 2 - Financial analysis: USA vs JAP comparison
 
 ![MAIN](https://media4.giphy.com/media/67ThRZlYBvibtdF9JH/giphy.gif)
 

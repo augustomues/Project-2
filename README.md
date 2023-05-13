@@ -70,7 +70,7 @@ Figure 4:
 And once again, if we go back to the Figure 2, would be interesting to see the correlation between the US and JAP PIB YoY growth rate. Let's as well plot it using a scatterplot
 
 Figure 5:
-![ASD](Images/3.%20US%20and%20JAP%20GDP%20YoY%20growth%20rates.png)
+![ASD](Images/3.%20US%20and%20JAP%20GDP%20YoY%20growth%20distribution.png)
 
 GDP growth rate US vs. JAP: US PIB is more stable and almost always possitive (2-11) while JAP is more volatil (-15;10). There is no correllation between the PIB growth of both countries.
 
